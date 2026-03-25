@@ -1,2 +1,2 @@
-# Steven Kang's personal website
+# Steven Kang's Personal Website
 https://stevenhanwen.github.io/my-site/
